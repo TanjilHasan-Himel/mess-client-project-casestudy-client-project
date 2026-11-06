@@ -1,0 +1,13 @@
+# Never publish local or private review material
+.env*
+*.local
+private/
+evidence-index.md
+security-findings.md
+rejected-screenshots/
+
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
